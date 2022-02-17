@@ -1,5 +1,5 @@
 <h2 align="left">About me 🌱</h2>
-<p aligne"left">Hi there ⚡  NiKla0Ss, Java Developer and an french ordynary boy. 🍞 </p> 
+<p aligne"left">Hi there ⚡  NiKla0Ss, Java Developer and an ordinary french boy. 🍞 </p> 
 
 <h2 align="left">👉 Working Environment</h2>
 <p align="left">
@@ -20,8 +20,9 @@
 <h2 align="left">👉 Database</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  
-  </p>
+ 
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" width="40" height="40"/> <p>My discord : NiKla0Ss#4297 </p>
 
   
   
